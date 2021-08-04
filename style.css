@@ -1,0 +1,8 @@
+.main-section-banner{
+    background-image:  linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ), url("https://ng.jumia.is/cms/Homepage/JBPCOL/9F6ACE5B-0FD3-45C1-93A1-D584CC2F7A81.jpeg");
+    background-size:cover;
+    background-position: center;
+}
